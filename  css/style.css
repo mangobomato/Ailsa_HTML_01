@@ -12,13 +12,14 @@
   img {
     width: auto;
     max-width: 100%;
+    margin: 10px, 10px, 10px, 10px auto;
+    align-items: self-start;
   }
   
   /* Header */
   .header {
     text-align: center;
     padding: 40px;
-    outline: 10px solid black;
   }
   
   /* Navigation */
